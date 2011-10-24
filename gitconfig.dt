@@ -1,0 +1,13 @@
+[user]
+  name = Isaac Sanders
+  email = isaacbfsanders@gmail.com
+[github]
+  user = isaacsanders
+  token = <Github token here>
+[alias]
+  st=status
+  ci=commit
+  co=checkout
+  br=branch
+[core]
+  editor = vim
