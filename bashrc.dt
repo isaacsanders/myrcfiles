@@ -1,5 +1,0 @@
-alias ls='ls --color=auto'
-alias lk='ls -aXl'
-alias grep='grep --color=auto'
-alias girl='grep -irl'
-alias grau='ps aux|grep '
